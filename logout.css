@@ -1,0 +1,40 @@
+html
+{
+    background-image: url("top-view-circular-food-frame_23-2148723455.jpg");
+    background-size:cover;   
+    background-attachment:fixed;
+    background-size: 110%;
+}
+
+#ij
+{
+    position: absolute;
+    top:40%;
+    left: 30%;
+    font-size: 50px;
+}
+#uu
+{
+    position: absolute;
+    /* color:orangered;   */
+    top:50%;
+    left: 35%;
+    font-size: 50px;
+}
+#oo
+{
+    position: absolute;
+    /* color:orangered;   */
+    top:60%;
+    left: 43%;
+    font-size: 55px;
+}
+#pp
+{
+    position: absolute;
+    color:darkgreen;
+    top:75%;
+    left: 27%;
+    font-size: 50px;
+    text-decoration: none;
+}

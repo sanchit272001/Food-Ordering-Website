@@ -1,0 +1,154 @@
+body 
+{    
+    background: url('pngtree-light-color-simple-delicious-bread-toast-e-commerce-food-banner-image_175121.jpg') no-repeat center fixed;     
+    background-size: cover;
+}
+thead
+{
+    background-color: rgba(255, 255, 240, 0.726);
+}
+tbody
+{
+    background-color: rgba(230, 230, 250, 0.5);
+}
+.table-hover:active
+{
+    background-color: rgba(255, 255, 255, 0.397);
+}
+#sub
+{
+    margin-left: 45%;
+}
+#sub
+{
+    background-color: white;
+}
+#sub:hover
+{
+
+    color: blue;
+    box-shadow:
+    inset 0 -3em 3em rgba(0,0,0,0.1),
+        /*  0 0  0 0.05em rgba(255, 255, 255, 0.829),*/
+          0.3em 0.3em 1em rgba(0,0,0,0.3);
+    background-color: white;
+}
+.dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+  }
+  
+  #myInput {
+    box-sizing: border-box;
+    background-image: url('searchicon.png');
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #myInput:focus {outline: 3px solid #ddd;}
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    min-width: 230px;
+    overflow: auto;
+    border: 1px solid #ddd;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .show {display: block;}
+#rr
+{
+	position: absolute;
+    top: 10px;
+    left: 700px;
+    margin-top: 10px;
+	text-decoration: none;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    transition: 0.6s ease;
+}
+
+.list{
+    position: absolute;
+    
+    left: 825px;
+     /* margin-top: 10px; */
+     
+ }
+ ul li {
+     display: inline-block;
+     margin-left: 5px;
+   
+ }
+ ul li a{
+     text-decoration: none;
+     color: white;
+     background-color: black;
+     font-size:20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 20px;
+     padding-right: 20px;
+     border-width: 1px;
+     border-style: solid;
+     border-color:black;
+     transition: 0.6s ease;
+ 
+ }
+ ul li  :hover{
+     background-color:white;
+     color:black;
+ 
+ }
+ #SJ{
+    position: absolute;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: solid;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black;
+    background-color: black;
+    color: white;
+    text-align:left;
+}
+.image
+{
+    width:1262px;
+    height: 40px;
+}

@@ -1,0 +1,20 @@
+html
+{
+    background-image: url("brooke-lark-wMzx2nBdeng-unsplash.jpg");
+    background-size:cover;   
+    background-attachment:fixed;
+
+}
+#sk{
+    position:absolute;
+    font-size: 45px;
+    text-decoration: none;
+    top: 58%;
+    left: 32%;
+}
+.ss{
+    position:absolute;
+    font-size:45px;
+    top:45%;
+    left:24%;
+}

@@ -1,0 +1,32 @@
+html
+{
+    background-image: url("grilled-salmon-steak-garnished-with-green-asparagus--lemon-and-tomatoes-1143931756-d61befab58de4bc780d293b957a2ea5b.jpg");
+    background-size:cover;   
+    background-attachment:fixed;
+
+}
+#ii
+{
+    position: absolute;
+    top:15%;
+    right:2%;
+    font-size: 40px;
+    color: rgb(13, 108, 140);
+    background-color:	rgb(235, 233, 242);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    transition: 0.6s ease;
+}
+/* #sp
+{
+    position: absolute;
+    top:25%;
+    right:2%;
+    font-size: 40px;
+    text-decoration: none;
+} */

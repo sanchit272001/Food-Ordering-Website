@@ -1,0 +1,53 @@
+html 
+{    
+    background: url('brooke-lark-wMzx2nBdeng-unsplash.jpg') no-repeat center;  
+    background-size:cover;   
+    background-attachment:fixed;
+    /background-size: 110%;/
+}
+
+.form
+{
+    top:15%;
+    left:33%;
+    width: 33%;
+    position: absolute;
+    color: rgba(245, 245, 220, 0.774);
+    padding: 2%;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(15, 15, 13, 0.699);
+}
+.form-control:focus
+{
+    border-color: beige;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(245, 245, 220, 0.664);
+}
+#img
+{
+    margin-left: 15%;
+    width:20%;
+}
+.radio
+{
+    margin-left: 15%;
+} 
+#ss
+{
+	text-decoration: none;
+    color:white;
+    size: 10cm;
+	top=58%;
+	left=40%;
+    background-color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color:blue;
+    transition: 0.6s ease;
+	
+}
